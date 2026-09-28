@@ -1,4 +1,4 @@
-# razor_blade — Amazon ML Challenge 2026 Entity Resolution
+#  Amazon ML Challenge 2026 Entity Resolution
 
 Pipeline matching noisy S2/S3 business records to reference S1 entities
 (US/India in train, France added in test only). Scored by macro F0.5.
