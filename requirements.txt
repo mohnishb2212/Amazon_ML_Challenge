@@ -1,0 +1,11 @@
+pandas
+numpy
+scipy
+lightgbm
+xgboost
+catboost
+scikit-learn
+joblib
+pyarrow
+nbformat
+nbclient

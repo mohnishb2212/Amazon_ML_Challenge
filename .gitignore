@@ -1,0 +1,34 @@
+# data & model artifacts
+artifacts/
+output/
+train/
+test/
+OLD/
+*.parquet
+*.joblib
+*.zip
+
+# old/unused files
+prep_final.py
+utils.py
+utils_ansh.py
+
+# notebooks
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# editor
+.vscode/
+.idea/
